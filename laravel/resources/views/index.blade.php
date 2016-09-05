@@ -42,8 +42,7 @@
 
 <body>
 
-    <!-- *** TOPBAR ***
- _________________________________________________________ -->
+    <!-- *** TOPBAR ***_________________________________________________________ -->
     <div id="top">
         <!--div class="container">
             <!--div class="col-md-6 offer" data-animate="fadeInDown">
@@ -989,7 +988,7 @@
         <div id="copyright">
             <div class="container">
                 <div class="col-md-6">
-                    <p class="pull-left">© 2015 Your name goes here.</p>
+                    <p class="pull-left">© 2016 Monett.</p>
 
                 </div>
                 <div class="col-md-6">
